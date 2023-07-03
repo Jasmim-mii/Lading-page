@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #000000;
+    font-family: "Roboto";
+}
+section{
+    background: #000000;
+    position: relative;
+    z-index: 2;
+}
+a, h1,h2,h3,h4{
+    text-decoration: none;
+    color: #eee;
+    text-transform: uppercase;
+}
+p{
+    color: #919191;
+    font-size: .9em;
+}
+li{
+    list-style: none;
+}
+.container{
+    padding: 3rem 3rem;
+}
+.icon{
+    color: #eee
+}
