@@ -38,19 +38,5 @@ export default {
 
 
 <style lang="css">
-/* featured
-.featured {
-  display: grid;
-  grid-template-columns: repeat(4, 2fr);
-  gap: 1rem
-}
 
-service
-.info-service{
-    text-align: center;
-    padding-bottom: 3.5rem;
-}
-.info-service .info-title{
-    font-size: 1.65rem;
-} */
 </style>
