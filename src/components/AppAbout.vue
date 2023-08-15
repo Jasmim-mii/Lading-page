@@ -100,7 +100,7 @@ export default {
   }
   .about[data-v-3de8301c] {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: none;
     background: #eee;
     align-content: center;
     justify-content: center;
