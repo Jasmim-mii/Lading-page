@@ -98,9 +98,8 @@ export default {
   .container {
     padding: 3rem 1.2rem;
   }
-  .about[data-v-3de8301c] {
-    display: grid;
-    grid-template-columns: none;
+  .about {
+    display: block;
     background: #eee;
     align-content: center;
     justify-content: center;
