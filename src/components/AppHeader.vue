@@ -161,6 +161,9 @@ export default {};
   .container {
     padding: 3rem 1.2rem;
   }
+  .header {
+    padding: 2rem 1.2rem;
+  }
   .navbar span {
     display: none;
   }
