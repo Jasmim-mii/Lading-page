@@ -51,7 +51,7 @@ export default {};
 }
 
 .footer-logo {
-  text-align: right;
+  text-align: left;
 }
 @media screen and (min-width: 350px) and (max-width: 900px) {
   .container {
